@@ -1,3 +1,3 @@
 Modern-Login-shaild
-![alt text](<img/SIGN IN.png>)
-![alt text](<img/SIGN UP.png>)
+![alt text](<assets/img/SIGN IN.png>)
+![alt text](<assets/img/SIGN UP.png>)
